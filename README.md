@@ -88,18 +88,10 @@ cd ../frontend
 npm install
 ```
 
-3️⃣ **Configura las variables de entorno**
-Crea un archivo `.env` en la carpeta del frontend y agrega:
-```sh
-VITE_API_URL=http://127.0.0.1:8000/api
-```
-
-4️⃣ **Inicia el servidor de desarrollo**
+3️⃣ **Inicia el servidor de desarrollo**
 ```sh
 npm run dev
 ```
-➡ La aplicación estará disponible en **http://localhost:5173**
-
 ---
 
 ## 📌 Base de Datos
